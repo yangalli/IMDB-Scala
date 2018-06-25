@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Light IMDB
  
 Uma implementação de um sistema web para 
@@ -16,3 +17,6 @@ avaliar filmes (ou outros trabalhos artísticos).
    * no shell do sbt, executar "run" 
    * acessar o projeto em http://localhost:9000  
  
+=======
+# IMDB-Scala
+>>>>>>> eba90ff89f98263e35b9b423e762fd0c1e5d1773
